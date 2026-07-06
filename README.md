@@ -105,19 +105,14 @@ Competitive programming solutions — the algorithmic muscle behind a 26th-place
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahvi27&show_icons=true&theme=radical&hide_border=true&bg_color=0F0C29&title_color=A78BFA&icon_color=2CB67D&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahvi27&layout=compact&theme=radical&hide_border=true&bg_color=0F0C29&title_color=A78BFA&text_color=c9d1d9" width="41%" />
+<img src="https://streak-stats.demolab.com/?user=ahvi27&theme=radical&hide_border=true&background=0F0C29&ring=A78BFA&fire=2CB67D&currStreakLabel=A78BFA" width="60%" />
 
-<img src="https://streak-stats.demolab.com/?user=ahvi27&theme=radical&hide_border=true&background=0F0C29&ring=A78BFA&fire=2CB67D&currStreakLabel=A78BFA" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahvi27&theme=react-dark&hide_border=true&bg_color=0F0C29&color=A78BFA&line=2CB67D&point=ffffff" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahvi27&theme=react-dark&hide_border=true&bg_color=0F0C29&color=A78BFA&line=2CB67D&point=ffffff" width="80%" />
 
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ahvi27&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,mongodb,docker" />
 
 </div>
+
 
 <br/>
 
