@@ -22,7 +22,7 @@ I turn product ideas into shipped, deployable interfaces — fast. My lane is Re
 role         Senior Front End Developer, full-stack when needed
 stack        React · Next.js · TypeScript · NestJS · Django · Flutter
 automation   n8n · Make · Docker · GitHub Actions
-studying     B.Sc. Computer Science & Engineering (ASTU, exp. 2029)
+studying     B.Sc. software Engineering (ASTU, exp. 2029)
 credential   MongoDB RAG Certified
 now          leveling up into AI Engineering & agentic systems
 ```
