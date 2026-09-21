@@ -1,146 +1,164 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=260&section=header&text=GELILA%20MULUGETA&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Engineer%20building%20fast%2C%20full-stack%20apps%20—%20and%20automating%20the%20rest&descAlignY=55&descSize=17&fontAlign=50" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:020617,45:312E81,100:06B6D4&text=GELILA%20MULUGETA&fontColor=F8FAFC&fontSize=48&fontAlignY=36&desc=Full-Stack%20%7C%20DevOps%20%7C%20Automation%20Engineer&descAlignY=57&descSize=18&animation=fadeIn" alt="Gelila Mulugeta banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=const+dev+%3D+%22frontend-first%2C+full-stack-capable%22;ships+production+UI+%2B+automates+the+rest;React+%C2%B7+TypeScript+%C2%B7+Next.js+%C2%B7+NestJS;n8n+%2F+Make+%2F+Docker+%2F+CI-CD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&multiline=false&repeat=true&width=760&lines=I+build+scalable+products+from+interface+to+infrastructure;React+%2B+Next.js+%2B+NestJS+%2B+Python;Docker+%2B+CI%2FCD+%2B+Cloud+%2B+Workflow+Automation;Turning+complex+problems+into+reliable+software" alt="Animated introduction" />
 
 <br/><br/>
 
-<a href="https://github.com/ahvi27"><img src="https://img.shields.io/badge/GITHUB-ahvi27-A78BFA?style=flat-square&labelColor=0F0C29" /></a>
-<img src="https://img.shields.io/badge/BASED_IN-Adama,_Ethiopia-A78BFA?style=flat-square&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/STATUS-Open_to_AI_%2F_Frontend_roles-2CB67D?style=flat-square&labelColor=0F0C29" />
+<a href="mailto:gelila2719@gmail.com"><img src="https://img.shields.io/badge/Email-gelila2719%40gmail.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/gelila-mulugeta-908099321"><img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://resilient-kitten-f7a243.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Explore-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+
+<br/><br/>
+
+
+
+
 
 </div>
 
-<br/>
+> whoami
 
-## → about
+I am a Full-Stack, DevOps, and Automation Engineer who builds polished web and mobile products, scalable APIs, and dependable delivery workflows. I work across the product lifecycle—from architecture and user experience to containerization, CI/CD, cloud deployment, and process automation.
 
-I turn product ideas into shipped, deployable interfaces — fast. My lane is React-based frontends with real motion and polish, backed by the full-stack range to wire up the backend and the DevOps instinct to automate whatever's left. Currently deep in CS & Engineering coursework at Adama Science and Technology University while shipping production-grade projects on the side.
+⚡ Build with React, Next.js, NestJS, Django, FastAPI, Flutter, and React Native
 
-```
-role         Senior Front End Developer, full-stack when needed
-stack        React · Next.js · TypeScript · NestJS · Django · Flutter
-automation   n8n · Make · Docker · GitHub Actions
-studying     B.Sc. software Engineering (ASTU, exp. 2029)
-credential   MongoDB RAG Certified
-now          leveling up into AI Engineering & agentic systems
-```
+🔁 Automate workflows with n8n, Make, Zapier, APIs, and custom scripts
 
-<br/>
+🚀 Ship reliably with Docker, GitHub Actions, PostgreSQL, Redis, AWS, and DigitalOcean
 
-## → stack
+🧭 Lead development work, coordinate teams, and turn business needs into maintainable systems
 
-<table>
-<tr><td valign="top" width="120"><b>languages</b></td><td>
+🎯 Currently open to full-stack, frontend, DevOps, automation, and AI engineering roles
 
-<img src="https://skillicons.dev/icons?i=js,ts,py" />
+const gelila = {
+  role: "Full-Stack, DevOps & Automation Engineer",
+  approach: ["build", "automate", "measure", "improve"],
+  strengths: ["product engineering", "system delivery", "workflow automation"],
+  currentFocus: "AI-powered products and production-ready developer systems",
+};
 
-</td></tr>
-<tr><td valign="top"><b>frontend</b></td><td>
+> tech --stack
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,framer" />
+<div align="center">
 
-</td></tr>
-<tr><td valign="top"><b>backend / mobile</b></td><td>
+Languages
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,django,mongodb,flutter" />
+Frontend & Mobile
 
-</td></tr>
-<tr><td valign="top"><b>devops / auto</b></td><td>
+Backend & Data
 
-<img src="https://skillicons.dev/icons?i=docker,githubactions,n8n,vercel" />
+DevOps & Automation
 
-</td></tr>
-</table>
+<img src="https://skillicons.dev/icons?i=js,ts,py" alt="JavaScript TypeScript Python" />
 
-<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind" alt="React Next.js Flutter Tailwind" />
 
-## → featured builds
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,django,fastapi,postgres,redis" alt="Node NestJS Django FastAPI PostgreSQL Redis" />
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,aws,git,linux" alt="Docker GitHub Actions AWS Git Linux" />
+
+React Native · REST APIs · SQLite · n8n · Make · Zapier · DigitalOcean · CI/CD
+
+</div>
+
+> ls ./featured-projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[✈️ Wanderlust Travel](https://github.com/ahvi27/travel_agency)**
-`React 19` `Vite` `Tailwind` `Framer Motion`
+🪐 Orbit AI CRM Dashboard
 
-Full travel-agency frontend with a glassmorphism navbar, animated compass loader, scroll-triggered reveals, and a masonry gallery. Dark mode persists across sessions; heavy sections lazy-load via `React.Suspense`.
+AI-native CRM interface with analytics, customer intelligence, a draggable sales pipeline, command palette, and responsive glassmorphic design.
+
+React 19 TypeScript Zustand Recharts Framer Motion
 
 </td>
 <td width="50%" valign="top">
 
-**[🛍️ Buytopia](https://github.com/ahvi27/Buytopia)** · [live ↗](https://buytopia.vercel.app)
-`React` `Vite` `JavaScript`
+🌱 EcoAudit
 
-Deployed e-commerce frontend with a clean component/routing architecture, built and shipped — not a template clone left half-finished.
+Offline-first environmental inspection app with photo/GPS evidence, weighted compliance scoring, corrective actions, and PDF report generation.
+
+Flutter Dart Geolocation PDF Local Storage
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[⚽ Football Match Tracker](https://github.com/ahvi27/football-match-tracker)**
-`Next.js` `TypeScript` `shadcn/ui`
+📊 InvestReady
 
-App Router build with fully typed components and a shadcn/ui design system, structured for consuming real-time sports data.
+Investment-attraction intelligence platform with transparent scoring, investor CRM, pipeline analytics, comparison tools, tests, Docker, and CI.
+
+Python Streamlit SQLite Docker GitHub Actions
 
 </td>
 <td width="50%" valign="top">
 
-**[🧮 CSEC](https://github.com/ahvi27/CSEC)**
-`Python`
+🔎 ResearchPilot
 
-Competitive programming solutions — the algorithmic muscle behind a 26th-place finish at the Ethiopian Collegiate Programming Contest.
+Local research agent that searches sources, creates citation-backed reports, stores research history, and exports structured Markdown.
+
+Python FastAPI SQLite OpenAI API Web Research
 
 </td>
 </tr>
 </table>
 
-<sub>🍔 Also recently shipped: **Foundry Burger Co.** (premium ordering UI, React/Vite/Tailwind/Framer Motion), **Orbit** (glassmorphic AI CRM dashboard), **CareerHub** (React job board), and **TaskFlow** (full-stack task manager, Node/Express/MongoDB) — pushed to GitHub as they land.</sub>
-
-<br/>
-
-## → github analytics
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=ahvi27&theme=radical&hide_border=true&background=0F0C29&ring=A78BFA&fire=2CB67D&currStreakLabel=A78BFA" width="60%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahvi27&theme=react-dark&hide_border=true&bg_color=0F0C29&color=A78BFA&line=2CB67D&point=ffffff" width="80%" />
-
-<img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,mongodb,docker" />
 
 </div>
 
+> git log --career
 
-<br/>
+Automation & Full-Stack Engineer · Freelance — building integrations, web/mobile applications, cloud deployments, and automated delivery systems
 
-## → currently
+Lead Developer · Aclesia — led full-stack delivery, API development, workflow automation, deployments, and team coordination
 
-- 🔭 Shipping full frontend products end-to-end — design, build, deploy, repeat
-- 🧩 Deepening full-stack range: Node/NestJS + MongoDB behind the UI
-- 🤖 Moving into AI Engineering: agentic systems, RAG, applied ML
-- ⚡ Automating dev busywork with n8n and Make so shipping stays fast
-- 🌱 CS & Engineering coursework running in parallel with real production work
+Full-Stack & DevOps Engineer · Gaha — developed backend services, Flutter integrations, Dockerized CI/CD, and performance improvements
 
-<br/>
+Full-Stack Developer · Impact Makers Foundation — delivered scalable web/mobile products and optimized cloud workflows
+
+B.Sc. Computer Science and Engineering · Adama Science and Technology University
+
+> achievements --highlight
+
+🏆 26th place — Ethiopian Collegiate Programming Contest (ETCPC)
+Applied algorithms, data structures, debugging, and team problem-solving under competitive time constraints.
+
+> github --analytics
 
 <div align="center">
 
-> *Clean code gets you to done. Thoughtful design gets you remembered.*
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahvi27&show_icons=true&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&ring_color=6366F1" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ahvi27&hide_border=true&background=020617&stroke=334155&ring=6366F1&fire=22D3EE&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22D3EE&sideLabels=A78BFA&dates=94A3B8" alt="GitHub contribution streak" />
 
-<br/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahvi27&bg_color=020617&color=CBD5E1&line=6366F1&point=22D3EE&area=true&area_color=312E81&hide_border=true" alt="Contribution activity graph" />
 
-<a href="https://github.com/ahvi27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/gelila-mulugeta-908099321"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://resilient-kitten-f7a243.netlify.app"><img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:gelila2719@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+
+> connect --open-to-work
+
+I am looking for opportunities where I can combine product engineering, automation, and reliable delivery to build software with measurable impact. If you are hiring for a full-stack, frontend, DevOps, automation, or AI-focused role, let’s talk.
+
+<div align="center">
+
+<a href="mailto:gelila2719@gmail.com"><img src="https://img.shields.io/badge/LET'S_BUILD_SOMETHING-22D3EE?style=for-the-badge&logo=minutemailer&logoColor=020617" alt="Contact Gelila" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ahvi27&label=Profile%20Views&color=A78BFA&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ahvi27&label=PROFILE+VIEWS&color=6366F1&style=flat-square" alt="Profile views" />
+
+<br/>
+
+<sub>Designed with intention · Built to ship · Always improving</sub>
 
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,45:312E81,100:020617" alt="Footer" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=140&section=footer" width="100%" />
