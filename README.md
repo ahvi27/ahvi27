@@ -1,10 +1,8 @@
 <div align="center">
 
-GELILA MULUGETA
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:020617,45:312E81,100:06B6D4&text=GELILA%20MULUGETA&fontColor=F8FAFC&fontSize=48&fontAlignY=36&desc=Full-Stack%20%7C%20DevOps%20%7C%20Automation%20Engineer&descAlignY=57&descSize=18&animation=fadeIn" alt="Gelila Mulugeta banner" />
 
-FULL-STACK · DEVOPS · AUTOMATION ENGINEER
-
-Building scalable products from interface to infrastructure.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&multiline=false&repeat=true&width=760&lines=I+build+scalable+products+from+interface+to+infrastructure;React+%2B+Next.js+%2B+NestJS+%2B+Python;Docker+%2B+CI%2FCD+%2B+Cloud+%2B+Workflow+Automation;Turning+complex+problems+into+reliable+software" alt="Animated introduction" />
 
 <br/><br/>
 
@@ -13,7 +11,6 @@ Building scalable products from interface to infrastructure.
 <a href="https://resilient-kitten-f7a243.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Explore-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
 <br/><br/>
-
 
 
 
