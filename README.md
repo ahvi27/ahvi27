@@ -124,12 +124,7 @@ Full-Stack & DevOps Engineer · Gaha — developed backend services, Flutter int
 
 Full-Stack Developer · Impact Makers Foundation — delivered scalable web/mobile products and optimized cloud workflows
 
-B.Sc. Computer Science and Engineering · Adama Science and Technology University
-
-> achievements --highlight
-
-🏆 26th place — Ethiopian Collegiate Programming Contest (ETCPC)
-Applied algorithms, data structures, debugging, and team problem-solving under competitive time constraints.
+software engineering student at  Adama Science and Technology University
 
 > github --analytics
 
