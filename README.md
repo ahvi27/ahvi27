@@ -1,8 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:020617,45:312E81,100:06B6D4&text=GELILA%20MULUGETA&fontColor=F8FAFC&fontSize=48&fontAlignY=36&desc=Full-Stack%20%7C%20DevOps%20%7C%20Automation%20Engineer&descAlignY=57&descSize=18&animation=fadeIn" alt="Gelila Mulugeta banner" />
+GELILA MULUGETA
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&multiline=false&repeat=true&width=760&lines=I+build+scalable+products+from+interface+to+infrastructure;React+%2B+Next.js+%2B+NestJS+%2B+Python;Docker+%2B+CI%2FCD+%2B+Cloud+%2B+Workflow+Automation;Turning+complex+problems+into+reliable+software" alt="Animated introduction" />
+FULL-STACK · DEVOPS · AUTOMATION ENGINEER
+
+Building scalable products from interface to infrastructure.
 
 <br/><br/>
 
@@ -43,23 +45,20 @@ const gelila = {
 
 <div align="center">
 
-Languages
 
-Frontend & Mobile
 
-Backend & Data
 
-DevOps & Automation
 
-<img src="https://skillicons.dev/icons?i=js,ts,py" alt="JavaScript TypeScript Python" />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind" alt="React Next.js Flutter Tailwind" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,django,fastapi,postgres,redis" alt="Node NestJS Django FastAPI PostgreSQL Redis" />
 
-<img src="https://skillicons.dev/icons?i=docker,githubactions,aws,git,linux" alt="Docker GitHub Actions AWS Git Linux" />
 
-React Native · REST APIs · SQLite · n8n · Make · Zapier · DigitalOcean · CI/CD
+
+
+
+
+
+NestJS · Django · React Native · Tailwind CSS · Redis · SQLite · REST APIs · n8n · Make · Zapier · DigitalOcean · CI/CD
 
 </div>
 
@@ -118,16 +117,15 @@ Python FastAPI SQLite OpenAI API Web Research
 
 Automation & Full-Stack Engineer · Freelance — building integrations, web/mobile applications, cloud deployments, and automated delivery systems
 
-software engineering student at  Adama Science and Technology University
+Software Engineering Student · Adama Science and Technology University (ASTU)
 
-> github --analytics
+> github --activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahvi27&show_icons=true&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&ring_color=6366F1" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ahvi27&hide_border=true&background=020617&stroke=334155&ring=6366F1&fire=22D3EE&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22D3EE&sideLabels=A78BFA&dates=94A3B8" alt="GitHub contribution streak" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahvi27&bg_color=020617&color=CBD5E1&line=6366F1&point=22D3EE&area=true&area_color=312E81&hide_border=true" alt="Contribution activity graph" />
+
+
 
 </div>
 
@@ -139,15 +137,8 @@ I am looking for opportunities where I can combine product engineering, automati
 
 <a href="mailto:gelila2719@gmail.com"><img src="https://img.shields.io/badge/LET'S_BUILD_SOMETHING-22D3EE?style=for-the-badge&logo=minutemailer&logoColor=020617" alt="Contact Gelila" /></a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ahvi27&label=PROFILE+VIEWS&color=6366F1&style=flat-square" alt="Profile views" />
-
 <br/>
 
 <sub>Designed with intention · Built to ship · Always improving</sub>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,45:312E81,100:020617" alt="Footer" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=140&section=footer" width="100%" />
