@@ -140,7 +140,30 @@ Software Engineering Student · Adama Science and Technology University (ASTU)
 
 
 </div>
+</div>
 
+## `> contributions --snake`
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ahvi27/ahvi27/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ahvi27/ahvi27/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/ahvi27/ahvi27/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
+
+## `> connect --open-to-work`
 > connect --open-to-work
 
 I am looking for opportunities where I can combine product engineering, automation, and reliable delivery to build software with measurable impact. If you are hiring for a full-stack, frontend, DevOps, automation, or AI-focused role, let’s talk.
