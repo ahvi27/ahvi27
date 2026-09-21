@@ -118,12 +118,6 @@ Python FastAPI SQLite OpenAI API Web Research
 
 Automation & Full-Stack Engineer · Freelance — building integrations, web/mobile applications, cloud deployments, and automated delivery systems
 
-Lead Developer · Aclesia — led full-stack delivery, API development, workflow automation, deployments, and team coordination
-
-Full-Stack & DevOps Engineer · Gaha — developed backend services, Flutter integrations, Dockerized CI/CD, and performance improvements
-
-Full-Stack Developer · Impact Makers Foundation — delivered scalable web/mobile products and optimized cloud workflows
-
 software engineering student at  Adama Science and Technology University
 
 > github --analytics
