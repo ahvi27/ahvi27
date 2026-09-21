@@ -123,6 +123,21 @@ Software Engineering Student · Adama Science and Technology University (ASTU)
 
 <div align="center">
 
+<a href="https://github.com/ahvi27">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahvi27&theme=tokyonight" alt="Gelila's GitHub statistics" />
+</a>
+<a href="https://github.com/ahvi27">
+  <img width="49%" src="https://streak-stats.demolab.com?user=ahvi27&theme=tokyonight&hide_border=true&background=020617&ring=6366F1&fire=22D3EE&currStreakLabel=22D3EE" alt="Gelila's GitHub contribution streak" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/ahvi27">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahvi27&theme=tokyonight" alt="Gelila's GitHub contribution activity" />
+</a>
+
+<br/><br/>
+
 
 
 
